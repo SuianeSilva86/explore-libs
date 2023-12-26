@@ -16,11 +16,8 @@
     "@types/node": "^16.18.68",
     "@types/react": "^18.2.43",
     "@types/react-dom": "^18.2.17",
-<<<<<<< HEAD
     "next": "13.5",
-=======
     "popover.js": "^0.2.40",
->>>>>>> dev
     "react": "^18.2.0",
     "react-chrono": "^2.3.1",
     "react-dom": "^18.2.0",
